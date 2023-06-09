@@ -1,4 +1,4 @@
-
+![MasterHead](https://github.com/Bhanujaya/Bhanujaya/blob/a3acab2a2b4e6521125819b73f76b854d3d95af0/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Bhanujaya</h1>
 <h3 align="center">A computer science student.</h3>
