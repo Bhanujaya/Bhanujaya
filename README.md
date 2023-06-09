@@ -1,10 +1,11 @@
-![logo](https://github.com/Bhanujaya/Bhanujaya-Smizdhanond/blob/34fefba94377ebed85155d09f2e00a6cee006e0d/918ae5203e6306bfebd752148c922d4d.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Bhanujaya</h1>
 <h3 align="center">A computer science student.</h3>
 
+<p align="center"> <img src="https://i.pinimg.com/originals/56/ce/8d/56ce8dd1cb7504537462f01c102f77af.gif" alt="gif" /></p>
 
-- 🔭 I’m currently working on **react-first-ecommerce**
+  - 🔭 I’m currently working on **react-first-ecommerce**
 
 - 🌱 I’m currently learning **React , Scikit**
 
